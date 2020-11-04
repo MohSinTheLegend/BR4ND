@@ -63,7 +63,7 @@ banner = """
                                                 
 \033[1;91m-----------------------------------------------
 \033[1;92m➣ COMMANDS MAKER   : MOHSIN ALI
-\033[1;97m Github  : https://github.com/muskanckg
+\033[1;97m Github  : https://github.com/MohsinTheLegend
 \033[1;92m➣ ID NAME    : MOHSIN RAZA
 \033[1;94m➣ Youtube : MOHSIN THE LEGEND
 \033[1;92m➣ WhatsApp: +923063112892
