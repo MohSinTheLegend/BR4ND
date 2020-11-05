@@ -59,12 +59,12 @@ def hopss(z):
 ##### LOGO #####
 banner = """ 
 \033[1;92m
-███╗░░░███╗░█████╗░██╗░░██╗░██████╗██╗███╗░░██╗
-████╗░████║██╔══██╗██║░░██║██╔════╝██║████╗░██║
-██╔████╔██║██║░░██║███████║╚█████╗░██║██╔██╗██║
-██║╚██╔╝██║██║░░██║██╔══██║░╚═══██╗██║██║╚████║
-██║░╚═╝░██║╚█████╔╝██║░░██║██████╔╝██║██║░╚███║
-╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚══╝                                              
+\033[1;91m ███╗░░░███╗░█████╗░██╗░░██╗░██████╗██╗███╗░░██╗
+\033[1;92m ████╗░████║██╔══██╗██║░░██║██╔════╝██║████╗░██║
+\033[1;94m ██╔████╔██║██║░░██║███████║╚█████╗░██║██╔██╗██║
+\033[1;97m ██║╚██╔╝██║██║░░██║██╔══██║░╚═══██╗██║██║╚████║
+\033[1;91m ██║░╚═╝░██║╚█████╔╝██║░░██║██████╔╝██║██║░╚███║
+\033[1;92m ╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚══╝                                              
 \033[1;97m-----------------------------------------------
 \033[1;91m➣ COMMANDS MAKER   : MOHSIN ALI
 \033[1;92m Github  : https://github.com/MohsinTheLegend
@@ -124,7 +124,7 @@ def menu():
 	print "[2] Clone With Pass Choice."
 	print "[3] Grabbing Tools."
 	print "[4] Auto Del Tools."
-	print "[5] Update jam Tool."
+	print "[5] Update M0HS1N Tool."
 	print "[6] Follow Me On Facebook."
 	print "[7] Logout"
 	print ('                  ')
@@ -162,7 +162,7 @@ def men():
 		time.sleep(3)
 		os.hamza('python2 Mohsin.py')
 	elif rana =="6":
-		os.system('xdg-open https://www.facebook.com/jam.shahrukh124')
+		os.system('xdg-open https://www.facebook.com/MOHSIN.ALI.ALL.HATERX.KA.PAPA.FEEL.THE.POWER')
 		menu()
 	elif rana =="7":
 		os.system('rm -rf login.txt')
